@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyProyect7132019</string>
+    <string name="dificultad">Please choose starting level:</string>
+    <string name="facil">Easy</string>
+    <string name="medio">Standard</string>
+    <string name="dificil">Dificult</string>
+    <string name="intentos">Attempts</string>
+    <string name="ayuda">Help</string>
+    <string name="ayudatexto">
+
+Help the game try to keep the ball as long as possible and without falling with touching with your finger under the ball.
+        \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n
+good luck
+    </string>
+    <string name="volver">Return</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyProyect7132019</string>
+
+    <string name="dificultad">Escoge Nivel:</string>
+    <string name="facil">Facil</string>
+    <string name="medio">Medio</string>
+    <string name="dificil">Dificil</string>
+    <string name="intentos">Intentos</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="ayudatexto">
+
+
+    AYUDA:\n\n El juego trata de mantener la pelota el mayor tiempo posible y sin caerse con tocando con el dedo por debajo de la bola. Elige
+        entre los tres niveles que hay
+        \n\n  \n\n  \n\n  \n\n  \n\n \n\n  \n\n  \n\n  \n\n
+             Buena suerte.
+
+
+    </string>
+<string name="volver">Volver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
